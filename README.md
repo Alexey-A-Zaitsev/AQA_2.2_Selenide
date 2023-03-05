@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e84aae0sqbw39j6u?svg=true)](https://ci.appveyor.com/project/Alexey-A-Zaitsev/aqa-2-2-selenide)
